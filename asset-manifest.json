@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Lifecycle-http-watches/static/css/main.08183b43.css",
+    "main.js": "/RA-Lifecycle-http-watches/static/js/main.b6d7dbf0.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Lifecycle-http-watches/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Lifecycle-http-watches/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Lifecycle-http-watches/index.html",
+    "main.08183b43.css.map": "/RA-Lifecycle-http-watches/static/css/main.08183b43.css.map",
+    "main.b6d7dbf0.js.map": "/RA-Lifecycle-http-watches/static/js/main.b6d7dbf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08183b43.css",
+    "static/js/main.b6d7dbf0.js"
+  ]
+}
